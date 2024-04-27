@@ -1,0 +1,41 @@
+@import url(/assets/Css/Utilidades/tipografia.css);
+@import url(/assets/Css/Utilidades/cores.css);
+@import url(/assets/Css/Utilidades/componentes.css);
+@import url(/assets/Css/Utilidades/animacao.css);
+@import url(/assets/Css/Global/Header.css);
+@import url(/assets/Css/Home/introducao.css);
+@import url(/assets/Css/Home/bicicletas.css);
+@import url(/assets/Css/Home/tecnologia.css);
+@import url(/assets/Css/Home/parceiros.css);
+@import url(/assets/Css/Home/depoimento.css);
+@import url(/assets/Css/Seguros/seguros.css);
+@import url(/assets/Css/Global/footer.css);
+@import url(/assets/Css/Termos/termos.css);
+@import url(/assets/Css/bicicletas/bicicletas.css);
+@import url(/assets/Css/Seguros/vantagens.css);
+@import url(/assets/Css/Seguros/perguntas.css);
+@import url(/assets/Css/bicicletas/nimbus.css);
+@import url(/assets/Css/bicicletas/seguro.css);
+@import url(/assets/Css/Contato/contato.css);
+@import url(/assets/Css/Utilidades/formulario.css);
+@import url(/assets/Css/Contato/lojas.css);
+@import url(/assets/Css/orcamento/orcamento.css);
+
+body,
+p,
+h1,
+h2,
+h3,
+h4 {
+    margin: 0px;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
